@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+body{
+    background-color: rgb(242, 242, 242);
+}
+
+
+article{
+    font-family: 'Roboto', sans-serif;
+}
+
+article h2{
+    font-family: 'Aboreto', cursive;
+}
+
