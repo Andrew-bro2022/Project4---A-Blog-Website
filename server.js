@@ -1,11 +1,6 @@
 /*********************************************************************************
-*  WEB322 – Assignment 5
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  
-*  No part of this assignment has been copied manually or electronically from any other source
-*  (including web sites) or distributed to other students.
-* 
-*  Name: __Yuchi Zheng___ Student ID: __025848151__ Date: __2nd, December, 2022__
 *
+*  Author Name: Yuchi Zheng
 *  Online (Cyclic) URL: https://filthy-fez-lamb.cyclic.app/blog
 *
 ********************************************************************************/
