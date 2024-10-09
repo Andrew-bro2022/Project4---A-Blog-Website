@@ -1,8 +1,10 @@
 # Project4---A-Blog-Website
 
-A web application that has features of registering/signing an account, uploading/deleting pictures/posts, and creating/editing post categories by JavaScript, HTML5, Express, JSON, MongoDB, Handlebars, Bootstrap CSS and Cyclic, etc. 
+- A fullstack web application that has features of registering/signing an account, uploading/deleting pictures/posts, and creating/editing post categories
 
-Here is the Blog link whihc is served by Cyclic: https://filthy-fez-lamb.cyclic.app/blog 
+- Tech stack: JavaScript, HTML5, Express, JSON, MongoDB, Handlebars, Bootstrap CSS and Cyclic, etc. 
+
+- Here is the Blog link whihc is served by Cyclic: https://filthy-fez-lamb.cyclic.app/blog 
 
 ![image](https://github.com/user-attachments/assets/8721efb3-239d-4fe1-a5a9-3a2fa63ab6ff)
 
