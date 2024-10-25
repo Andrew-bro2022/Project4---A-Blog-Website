@@ -1,6 +1,6 @@
 # Project4---A-Blog-Website
 
-- A fullstack web application that has features of registering/signing an account, uploading/deleting pictures/posts, and creating/editing post categories
+- A website that has features of registering/signing an account, uploading/deleting pictures/posts, and creating/editing post categories
 
 - Tech stack: JavaScript, HTML5, Express, JSON, MongoDB, Handlebars, Bootstrap CSS and Cyclic, etc. 
 
